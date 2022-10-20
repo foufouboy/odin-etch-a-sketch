@@ -11,3 +11,4 @@
 
 * Main: Calling Code
 * Footer: DM Sans
+* Color: #C8C8CE, RGB(200, 200, 206)
